@@ -431,8 +431,8 @@ packages:
   smart_parking_solutions_common:
     dependency: "direct main"
     description:
-      path: "/home/tsutton/projects/smart_parking_solutions_common"
-      relative: false
+      path: "../smart_parking_solutions_common"
+      relative: true
     source: path
     version: "0.0.0"
   source_map_stack_trace:
